@@ -141,7 +141,7 @@ This section provides a clear, transparent, and professional description of the 
 
 The analysis shows a relationship between users’ daily step counts and body weight, where users with higher average daily steps tend to present lower body weight values.
 
-![](figures/Q1_daily_activity%20vs%20body_weight.png)
+![](figures/Q1_daily_activity vs body_weight.png)
 
 Additionally, the physiological data shows **slight variation in average heart rate across activity levels**, with users in the ‘Moderate’ and ‘High’ activity categories exhibiting marginally lower average heart rates compared to the ‘Low’ activity group.
 
@@ -316,4 +316,5 @@ This analysis provided a data-driven exploration of smart device usage to unders
 ## Final Outlook
 
 The insights derived from this analysis offer a foundational framework for refining Bellabeat’s positioning and enhancing user engagement. By bridging the gap between passive tracking and active wellness management, Bellabeat can empower its community with information that reflects individual biological rhythms, guiding future analytical efforts toward a more comprehensive and representative ecosystem.
+
 

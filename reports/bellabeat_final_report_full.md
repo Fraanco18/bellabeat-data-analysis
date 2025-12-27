@@ -141,16 +141,18 @@ This section provides a clear, transparent, and professional description of the 
 
 The analysis shows a relationship between users’ daily step counts and body weight, where users with higher average daily steps tend to present lower body weight values.
 
-![](![Daily activity vs body weight](../figures/Q1_daily_activity_vs_body_weight.png)
-)
+![Daily activity vs body weight](../figures/Q1_daily_activity_vs_body_weight.png)
+
 
 Additionally, the physiological data shows **slight variation in average heart rate across activity levels**, with users in the ‘Moderate’ and ‘High’ activity categories exhibiting marginally lower average heart rates compared to the ‘Low’ activity group.
 
-![](figures/Q5_average_heart_rate_by_physical_activity_level.png)
+![Average heart rate by physical activity level](../figures/Q5_average_heart_rate_by_physical_activity_level.png)
+
 
 Together, these results suggest that the step-based activity classifications are reflected not only in body-related metrics but also in physiological responses, supporting the internal consistency of the activity data.
 
-![](figures/Q5_relationship_between_daily_steps_and_average_heart_rate.png)
+![Relationship between daily steps and average heart rate](../figures/Q5_relationship_between_daily_steps_and_average_heart_rate.png)
+
 
 ## Why this matters for Bellabeat
 
@@ -164,15 +166,18 @@ This insight highlights the value of step-based activity tracking as a meaningfu
 
 Physical activity patterns remain highly consistent across weekdays and weekends, with only a marginal difference of approximately 1% in average daily steps. Users average slightly more steps on weekends than on weekdays, reinforcing the overall stability of movement behavior throughout the week.
 
-![](figures/Q2_weekday_vs_weekend_steps.png)
+![Weekday vs weekend steps](../figures/Q2_weekday_vs_weekend_steps.png)
+
 
 In contrast, energy expenditure increases substantially with higher activity intensity. Users classified in higher activity levels burn approximately 26% more calories than those in the “Low” activity group.
 
-![](figures/Q6_average_daily_calories_burned_by_physica_activity_level.png)
+![Average daily calories burned by physical activity level](../figures/Q6_average_daily_calories_burned_by_physica_activity_level.png)
+
 
 Additionally, calorie burn remains comparable between weekdays and weekends when activity intensity is similar, indicating that energy expenditure is primarily driven by activity level rather than by the type of day.
 
-![](figures/Q6_average_daily_calories_burned_weekdays_vs_weekends.png)
+![Average daily calories burned: weekdays vs weekends](../figures/Q6_average_daily_calories_burned_weekdays_vs_weekends.png)
+
 
 ## Why this matters for Bellabeat
 
@@ -186,19 +191,23 @@ This insight highlights that promoting higher activity intensity is more impactf
 
 Daily step counts show weak and inconsistent associations with both total sleep duration and the time it takes users to fall asleep. While a slight negative relationship with sleep duration is observed in some scenarios (**r = -0.22**)
 
-![](figures/Q3_daily_steps_vs_sleep_duration.png)
+![Daily steps vs sleep duration](../figures/Q3_daily_steps_vs_sleep_duration.png)
+
 
 this association diminishes substantially when data quality improves (**r = -0.08**), suggesting limited explanatory power.
 
-![](figures/Q3_daily_steps_vs_sleep_duration_≥5_sleep_records.png)
+![Daily steps vs sleep duration (≥5 sleep records)](../figures/Q3_daily_steps_vs_sleep_duration_≥5_sleep_records.png)
+
 
 Similarly, the relationship between physical activity and sleep onset time is weak. Notably, the “High Activity” group showed longer average sleep onset times, a pattern **influenced by variability and outlier**s.
 
-![](figures/Q4_average_sleep_onset_time_by_activity_level.png)
+![Average sleep onset time by activity level](../figures/Q4_average_sleep_onset_time_by_activity_level.png)
+
 
 Overall, these findings indicate that daily physical activity alone is not a strong predictor of sleep outcomes within this dataset.
 
-![](figures/Q4_relationship_between%20_physical_activity_and_sleep_onset_time.png)
+![Relationship between physical activity and sleep onset time](../figures/Q4_relationship_between_physical_activity_and_sleep_onset_time.png)
+
 
 ## Why this matters for Bellabeat
 
@@ -317,6 +326,7 @@ This analysis provided a data-driven exploration of smart device usage to unders
 ## Final Outlook
 
 The insights derived from this analysis offer a foundational framework for refining Bellabeat’s positioning and enhancing user engagement. By bridging the gap between passive tracking and active wellness management, Bellabeat can empower its community with information that reflects individual biological rhythms, guiding future analytical efforts toward a more comprehensive and representative ecosystem.
+
 
 
 

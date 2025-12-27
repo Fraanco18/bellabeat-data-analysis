@@ -38,7 +38,7 @@ For a deep dive into the **"how" and "why"** behind the analysis — including d
 
 | Report Type | Audience | Description |
 | :--- | :--- | :--- |
-| **[Executive Summary](reports/executive_summary.md)** | Stakeholders | One-page overview of key insights and business recommendations. |
+| **[Executive Summary](reports/bellabeat_executive_summary.md)** | Stakeholders | One-page overview of key insights and business recommendations. |
 | **[Case Study Report](reports/bellabeat_final_report.md)** | Recruiters & Clients | Concise analytical narrative explaining the workflow, insights, and decision-making process. |
 | **[Full Technical Report](reports/bellabeat_final_report_full.md)** | Data Professionals | Comprehensive methodology, data cleaning logic, statistical reasoning, limitations, and code references. |
 

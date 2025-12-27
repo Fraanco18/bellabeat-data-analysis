@@ -1,0 +1,16 @@
+# Q1 – Physical Activity vs. Body Weight
+
+## Analytical Approach
+The analysis was conducted at the user level to avoid bias caused by uneven daily recording frequency.
+
+Average daily step counts and body weight were aggregated per user and merged using inner joins to ensure that only users with complete records were included.
+
+## Key Decisions
+- User-level aggregation was chosen over daily-level analysis to improve comparability.
+- Inner joins were used to maintain analytical consistency across datasets.
+- Average daily step count was used as a proxy for overall activity level.
+
+## Limitations
+- Small effective sample size after filtering users with complete records.
+- Observational data prevents causal interpretation.
+- Body weight measurements were not recorded uniformly across users.

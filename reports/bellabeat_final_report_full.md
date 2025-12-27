@@ -171,7 +171,7 @@ Physical activity patterns remain highly consistent across weekdays and weekends
 
 In contrast, energy expenditure increases substantially with higher activity intensity. Users classified in higher activity levels burn approximately 26% more calories than those in the “Low” activity group.
 
-![Average daily calories burned by physical activity level](../figures/Q6_average_daily_calories_burned_by_physica_activity_level.png)
+![Average daily calories burned by physical activity level](../figures/Q6_average_daily_calories_burned_by_physical_activity_level.png)
 
 
 Additionally, calorie burn remains comparable between weekdays and weekends when activity intensity is similar, indicating that energy expenditure is primarily driven by activity level rather than by the type of day.
@@ -326,6 +326,7 @@ This analysis provided a data-driven exploration of smart device usage to unders
 ## Final Outlook
 
 The insights derived from this analysis offer a foundational framework for refining Bellabeat’s positioning and enhancing user engagement. By bridging the gap between passive tracking and active wellness management, Bellabeat can empower its community with information that reflects individual biological rhythms, guiding future analytical efforts toward a more comprehensive and representative ecosystem.
+
 
 
 

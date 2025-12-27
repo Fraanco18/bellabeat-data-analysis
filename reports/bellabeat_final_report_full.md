@@ -206,7 +206,7 @@ Similarly, the relationship between physical activity and sleep onset time is we
 
 Overall, these findings indicate that daily physical activity alone is not a strong predictor of sleep outcomes within this dataset.
 
-![Relationship between physical activity and sleep onset time](../figures/Q4_relationship_between_physical_activity_and_sleep_onset_time.png)
+![Relationship between physical activity and sleep onset time](../figures/Q4_relationship_between _physical_activity_and_sleep_onset_time.png)
 
 
 ## Why this matters for Bellabeat
@@ -326,6 +326,7 @@ This analysis provided a data-driven exploration of smart device usage to unders
 ## Final Outlook
 
 The insights derived from this analysis offer a foundational framework for refining Bellabeat’s positioning and enhancing user engagement. By bridging the gap between passive tracking and active wellness management, Bellabeat can empower its community with information that reflects individual biological rhythms, guiding future analytical efforts toward a more comprehensive and representative ecosystem.
+
 
 
 

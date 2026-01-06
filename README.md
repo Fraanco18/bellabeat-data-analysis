@@ -8,7 +8,9 @@ This project is an **end-to-end exploratory analysis** of smart device data (Bel
 Unlike typical analyses, this project emphasizes **methodological rigor and data quality** over simple prediction.
 
 ### 🖼️ Preview
-![Analysis Preview](figures/Q6_average_daily_calories_burned_by_physica_activity_level.png)
+
+![Analysis Preview](figures/Q6_average_daily_calories_burned_by_physical_activity_level.png)
+
 *Example visualization from the analysis. Average daily calorie expenditure increases significantly with activity intensity, highlighting the importance of sustained moderate-to-high activity over the type of day.*
 
 
@@ -55,3 +57,11 @@ For a deep dive into the **"how" and "why"** behind the analysis — including d
 ├── technical_notes/   # Detailed notes on transformations & outliers
 ├── reports/           # Final reports (PDF & MD)
 └── README.md          # This file
+```
+
+---
+
+👤 Author
+
+**Franco Palomeque**  
+Data Analyst — SQL | Business & Product Analytics

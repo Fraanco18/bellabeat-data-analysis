@@ -9,6 +9,36 @@ This project is an **end-to-end exploratory analysis** of smart device data (Bel
 
 Unlike typical analyses, this project emphasizes **methodological rigor and data quality** over simple prediction.
 
+---
+
+## 🎯 Business Problem
+Bellabeat seeks to leverage smart device data to better understand user behavior related to activity, sleep, and wellness. The key challenge is translating raw behavioral data into actionable insights that support product development and targeted marketing strategies.
+
+---
+
+## 🧠 Executive Summary
+The analysis identifies clear behavioral patterns linking activity intensity, sleep consistency, and energy expenditure. Results suggest that consistency in moderate activity delivers stronger wellness outcomes than sporadic high intensity. These insights highlight opportunities for user segmentation, personalized engagement, and data-driven product positioning.
+
+---
+
+## 🔍 Key Insights
+
+Based on the analysis of user daily habits, the core insights are:
+
+1.  **Consistency:** User activity levels are remarkably stable across weekdays and weekends; there is no significant "weekend warrior" effect.
+2.  **Steps vs. Sleep:** Surprisingly, raw step count is a **weak predictor** of sleep duration or quality.
+3.  **Intensity Matters:** Users with *moderate* activity showed better heart rate metrics than those with sporadic high intensity, highlighting the value of consistency.
+4.  **Energy Expenditure:** Average daily calories burned increase substantially with higher activity levels, regardless of weekday or weekend.
+
+---
+
+## 💡 Business Recommendations
+- Segment users based on activity consistency rather than raw step count.
+- Design product features and notifications that promote sustained moderate activity.
+- Align wellness messaging with data-backed behavioral patterns to improve engagement.
+
+---
+
 ### 🖼️ Preview
 
 ![Analysis Preview](figures/Q6_average_daily_calories_burned_by_physical_activity_level.png)
@@ -23,17 +53,6 @@ The analysis was conducted entirely in **R** within a reproducible workflow:
 * **Data Manipulation:** `tidyverse`, `dplyr`, `tidyr`, `lubridate`
 * **Visualization:** `ggplot2`
 * **Documentation:** R Markdown
-
----
-
-## 🔍 Key Findings
-Based on the analysis of user daily habits, the core insights are:
-
-1.  **Consistency:** User activity levels are remarkably stable across weekdays and weekends; there is no significant "weekend warrior" effect.
-2.  **Steps vs. Sleep:** Surprisingly, raw step count is a **weak predictor** of sleep duration or quality.
-3.  **Intensity Matters:** Users with *moderate* activity showed better heart rate metrics than those with sporadic high intensity, highlighting the value of consistency.
-4.  **Energy Expenditure:** Average daily calories burned increase substantially with higher activity levels, regardless of weekday or weekend.
-
 
 ---
 
@@ -63,7 +82,7 @@ For a deep dive into the **"how" and "why"** behind the analysis — including d
 
 ---
 
-👤 Author
+## 👤 Author
 
 **Franco Palomeque**  
 Data Analyst — SQL | Business & Product Analytics

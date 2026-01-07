@@ -1,6 +1,8 @@
-# 🏃‍♀️ Bellabeat Case Study – Data Analysis
+# 🏃‍♀️ Bellabeat — Smart Device Analytics
 
 ![R](https://img.shields.io/badge/Language-R-blue) ![Status](https://img.shields.io/badge/Status-Completed-success) ![License](https://img.shields.io/badge/License-CC0-lightgrey)
+
+Exploratory business analysis of smart device usage data to identify behavioral patterns related to activity, sleep, and wellness, translating user data into actionable product and marketing recommendations.
 
 ## 📌 Project Overview
 This project is an **end-to-end exploratory analysis** of smart device data (Bellabeat). The goal is to analyze user habits regarding activity, sleep, and heart rate to provide data-driven recommendations for product strategy.
